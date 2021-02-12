@@ -1,4 +1,4 @@
-# Inverted Index and PositionalIndex
+# Inverted Index and Positional Index
 Formation of inverted index and positional index to process simple boolean queries, complex boolean queries and proximity queries.
 
 
